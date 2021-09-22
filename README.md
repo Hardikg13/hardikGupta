@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 Reach out to me on - hardikgupta13.hg@gmail.com
+- 👋 I love to travel and meet new people!
 
 <!---
 harryg13/harryg13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
