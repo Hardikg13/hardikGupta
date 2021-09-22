@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development/product management/artificial inteligence.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me - hardikgupta13.hg@gmail.com
+- 📫 Reach out to me on - hardikgupta13.hg@gmail.com
 
 <!---
 harryg13/harryg13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
