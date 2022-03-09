@@ -7,9 +7,9 @@
 
 
 - 👋 Hi, I’m @HardikGupta
-- 👀 I’m interested in Software development/product management/artificial inteligence.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in Cloud,deployment and devops tools.
+- 🌱 I’m currently learning C++,data structures,AWS,Data Studio and big Query.
+- 💞️ I’m looking forward to working in some freelancing Projects!
 - 📫 Reach out to me on - hardikgupta13.hg@gmail.com
 - 👋 I love to travel and meet new people!
 
