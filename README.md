@@ -9,7 +9,7 @@
 - 👋 Hi, I’m @HardikGupta
 - 👀 I’m interested in Cloud,deployment and devops tools.
 - 🌱 I’m currently learning python,data structures,AWS,Terraform and SQL.
-- 💞️ I’m looking forward to working in some freelancing Projects!
+- 💞️ I’m looking forward to working with you on an exciting Project!
 - 📫 Reach out to me on - hardikgupta13.hg@gmail.com
 - 👋 I love to travel and meet new people!
 
